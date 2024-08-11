@@ -159,7 +159,7 @@ To mark a task as to-do, use the following command:
 
 - Ensure all required parameters are provided to avoid errors.
 - Refer to the application’s help command for more details and options.
-- task is a bat file run a command `php src\TaskTracker.php %1 %2 %3 %4`
+- task is a bat file run a command `php src\TaskTracker.php`
 
 ## License
 
