@@ -1,0 +1,13 @@
+{
+    "name": "marwan/task_traker",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Marwan\\TaskTracker\\": "src/"
+        }
+    },
+    "require": {
+        "nunomaduro/termwind": "^2.0",
+        "splitbrain/php-cli": "^1.3"
+    }
+}
